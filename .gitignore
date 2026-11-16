@@ -1,0 +1,4 @@
+/db.json
+/errors.log
+/response_*.json
+__pycache__/
